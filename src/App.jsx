@@ -6,6 +6,7 @@ function App() {
       <h1>Welcome to My React Project - s205</h1>
       <p>CI/CD and Cloud Devops</p>
       <p>This is a simple homepage deployed on GitHub Actions using Vite.</p>
+      <p>Done With GitPages & Git Actions</p>
     </div>
   );
 }
